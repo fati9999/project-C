@@ -1,0 +1,16 @@
+cd:permet de naviguer dans les répertoires(changer voter emplacement entre les répertoires)
+cd..:permet de remonter au répertoire parent
+pwd: permet d'affiche le chemin absolu de répertoire
+mkdir:permet de créer de dossiers au répertoires 
+touch:permet de créer un fichier vide
+cat:permet de créer un fichier et écrire
+ls:permet d'aficher le contenu du répertoire
+ls-l:permet d'aficher les détails du contenu du répertoire
+remove:permet du supprimer les fichiers
+rm-r:permet de supprimer les fichiers 
+move:permet de déplacer des fichier au répertoire et,il permet auusi de renomer un fichier
+cp (copier):permet de copier les fchier
+cp-r:permet de copier le répertoire et le sous répertoire
+cp-a:permet de copier et conserver la date,les droits,le propriétaire
+ln (link):créer un lein physique vers un fichier
+
